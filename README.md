@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about DevOps or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @spkatageri](https://twitter.com/spkatageri)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love eating at anytime of the day.
+- ⚡ Fun fact: I love eating at food/snack at anytime of the day.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/spkatageri)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoshkatageri/)](https://www.linkedin.com/in/santoshkatageri/)
