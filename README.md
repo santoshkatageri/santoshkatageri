@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on Terraform Provider Development.
 - 🌱 I’m currently learning more about OpenSource contribution.
 - 👯 I’m looking to collaborate on Golang learning.
-- 🤔 I’m looking for help with DevOps.
+- 🤔 I’m looking for help with Open Source Project.
 - 💬 Ask me about DevOps or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @spkatageri](https://twitter.com/spkatageri)
 - 😄 Pronouns: He/His
