@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate on Golang learning.
 - 🤔 I’m looking for help with Open Source Project.
 - 💬 Ask me about DevOps or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @spkatageri](https://twitter.com/spkatageri)
+- 📫 How to reach me: [![Linkedin: santoshkatageri](https://www.linkedin.com/in/santoshkatageri/),[Twitter - @spkatageri](https://twitter.com/spkatageri) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love eating at food/snack at anytime of the day.
 
