@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**santoshkatageri/santoshkatageri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there I'm [Santosh Katageri!](https://santoshkatageri.github.io/) 👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkatageri&label=Views&color=blue&style=plastic" alt="santoshkatageri" /> </p>
 
@@ -51,13 +36,14 @@ Here are some ideas to get you started:
 [![GitHub iampawan](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/santoshkatageri)
 [![website](https://img.shields.io/badge/PortfolioWebsite--2648ff?style=flat-square&logo=google-chrome)](https:///)
 
-
+<!--
 <a href="https://github.com/santoshkatageri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkatageri&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/santoshkatageri">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshkatageri&show_icons=true&theme=light&line_height=27" alt="Santosh's github stats"/>
 </a>
+-->
 
 <div align="center">
 
