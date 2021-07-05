@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🔭 I’m currently working on personal website building.
+- 🔭 I’m currently working on Terraform Provider Development.
 - 🌱 I’m currently learning more about OpenSource contribution.
 - 👯 I’m looking to collaborate on Golang learning.
 - 🤔 I’m looking for help with DevOps.
