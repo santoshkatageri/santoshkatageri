@@ -34,7 +34,6 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/spkatageri)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoshkatageri/)](https://www.linkedin.com/in/santoshkatageri/)
 [![GitHub iampawan](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/santoshkatageri)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://santoshkatageri.github.io/)
 [![website](https://img.shields.io/badge/PortfolioWebsite-santoshkatageri.github.io-2648ff?style=flat-square&logo=google-chrome)](https://santoshkatageri.github.io/)
 
 <!--
