@@ -29,7 +29,7 @@
 - 💬 Ask me about DevOps or any tech-related stuff.
 - 📫 How to reach me: [Linkedin: santoshkatageri](https://www.linkedin.com/in/santoshkatageri/) [Twitter - @spkatageri](https://twitter.com/spkatageri) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love eating at food/snack at anytime of the day.
+- ⚡ Fun fact: I love eating food/snack at anytime of the day.
 
 [![Twitter: spkatageri](https://img.shields.io/twitter/follow/spkatageri?style=social)](https://twitter.com/spkatageri)
 [![Linkedin: santoshkatageri](https://img.shields.io/badge/-santoshkatageri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoshkatageri/)](https://www.linkedin.com/in/santoshkatageri/)
