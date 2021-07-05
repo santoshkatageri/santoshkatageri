@@ -50,3 +50,17 @@ Here are some ideas to get you started:
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoshkatageri/)](https://www.linkedin.com/in/santoshkatageri/)
 [![GitHub iampawan](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/santoshkatageri)
 [![website](https://img.shields.io/badge/PortfolioWebsite--2648ff?style=flat-square&logo=google-chrome)](https:///)
+
+
+<a href="https://github.com/santoshkatageri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkatageri&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/santoshkatageri">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshkatageri&show_icons=true&theme=light&line_height=27" alt="Santosh's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
